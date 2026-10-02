@@ -2,4 +2,4 @@
 Linux与IT运维学习及实战记录。
 
 ## 学习目录
-- [Linux学习](./Day01-Linux基础/Day01-项目实战记录.md)
+- [个人Linux运维知识体系搭建与实战记录](./Day01-Linux基础/Day01-项目实战记录.md)
